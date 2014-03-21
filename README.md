@@ -1,4 +1,4 @@
 Micrel-VoIP-Products
 ====================
 
-Micrel VoIP Product overview, application note and process to request more information
+Micrel VoIP Product overviews, application notes
